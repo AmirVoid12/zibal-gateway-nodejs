@@ -1,6 +1,6 @@
 # Zibal Payment SDK for NodeJS
 
-![Zibal Logo](https://zibal.ir/assets/img/EngLogo.png)
+![Zibal Logo](https://s.cafebazaar.ir/images/icons/com.zibalapp-271903c6-21c4-494a-a269-af7b1d556d8f_512x512.png?x-img=v1/format,type_webp,lossless_false/resize,h_256,w_256,lossless_false/optimize)
 
 [![npm version](https://img.shields.io/npm/v/zibal.svg)](https://www.npmjs.com/package/zibal)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
