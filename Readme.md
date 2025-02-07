@@ -1,5 +1,5 @@
 <img src="https://zibal.ir/assets/img/EngLogo.png" width="128"/>
-[Zibal](https://zibal.ir/) Payment SDK for NodeJS
+[Zibal Payment SDK for NodeJS](https://zibal.ir/)
 
 
 ## Installation
